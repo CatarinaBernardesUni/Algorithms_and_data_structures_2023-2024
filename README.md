@@ -95,6 +95,6 @@ Each student again receives an RFM’ score.
 2. Binary search is applied to find specific students.
 3. Execution time is measured using `timeit`.
 
-⏱️ A performance comparison between **linear search** and **binary search** is provided.
+A performance comparison between **linear search** and **binary search** is provided.
 
 ---
