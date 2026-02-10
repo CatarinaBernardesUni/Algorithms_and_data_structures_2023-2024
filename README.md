@@ -39,7 +39,7 @@ For each student, the following metrics are computed:
 
 ### Recency
 - Number of days since the student’s **most recent purchase**
-- Assumes **March 1st** as the current reference date
+- Assuming **March 1st, 2024** as the current reference date
 
 ### Frequency
 - Total number of purchases made by the student
